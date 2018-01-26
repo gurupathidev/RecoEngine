@@ -1,0 +1,4 @@
+ [
+  { textKey: 'LG', valueKey: 'LGValue' },
+  { textKey: 'Samsung', valueKey: 'Samsungvalue' }
+];
